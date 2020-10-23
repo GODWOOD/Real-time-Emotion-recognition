@@ -16,5 +16,6 @@
     輸入為48*48*1的單通道黑白圖片
     訓練次數500次每次128張
     使用fer2013
-    ![](https://drive.google.com/file/d/1Cc_PiWp9bkvaIc6bS130jkSwMsHMBiNi/view?usp=sharing)
-    ![](https://drive.google.com/file/d/1I7ytFZZs4pflQoYRVgoXYH8vDiVWwGGn/view?usp=sharing)
+    ![][AC_500_65.png]
+    ![][L_500_65.png]
+    ![test demo](Ouo.gif)
