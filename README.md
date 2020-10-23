@@ -18,8 +18,8 @@
     輸入為48*48*1的單通道黑白圖片
     訓練次數500次每次128張
     使用fer2013 改天有空再把訓練model的程式放上來
-    ![image](https://github.com/GODWOOD/Real-time-Emotion-recognition/blob/main/AC_500_65.png)
-    ![image](https://github.com/GODWOOD/Real-time-Emotion-recognition/blob/main/L_500_65.png)
+![image](https://github.com/GODWOOD/Real-time-Emotion-recognition/blob/main/AC_500_65.png)
+![image](https://github.com/GODWOOD/Real-time-Emotion-recognition/blob/main/L_500_65.png)
 ## DEMO
-    ![image](https://github.com/GODWOOD/Real-time-Emotion-recognition/blob/main/demo.gif)
+![image](https://github.com/GODWOOD/Real-time-Emotion-recognition/blob/main/demo.gif)
 
